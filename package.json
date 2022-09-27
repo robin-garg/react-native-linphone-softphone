@@ -1,7 +1,7 @@
 {
   "name": "react-native-linphone-softphone",
   "title": "React Native Linphone Softphone",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "TODO",
   "main": "index.js",
   "files": [
@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-linphone-softphone.git",
-    "baseUrl": "https://github.com/github_account/react-native-linphone-softphone"
+    "url": "git+https://github.com/robin-garg/react-native-linphone-softphone.git",
+    "baseUrl": "https://github.com/robin-garg/react-native-linphone-softphone"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Your Name",
-    "email": "yourname@email.com"
+    "name": "Robin Garg",
+    "email": "robingarg.mca@gmail.com"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
